@@ -1,12 +1,32 @@
 .titulo{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 50px;
+    font-size: 30px;
     background-color: cadetblue;
     color: whitesmoke;
-
+    text-align: center;
+    padding: 2%;
 }
 
 body
 {
-    margin: 0%;
+    margin-top: 0%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
+a{
+    text-decoration: none;
+    color: darkgreen;
+}
+
+a:hover
+{
+    text-decoration: none;
+    color: greenyellow;
+}
+
+/**{
+    border: 1px;
+    border-style: solid;
+    color:red;
+}*/
